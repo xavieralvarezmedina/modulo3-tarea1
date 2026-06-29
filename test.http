@@ -1,0 +1,17 @@
+post http://localhost:3000/registro
+content-type: application/json
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+
+### otra incidencia
+post http://localhost:3000/incidencia 
+content-type: application/json
+
+{
+  "tipo": "daño de calle",
+  "descripcion": "se menciona que las calles de la cancha estan en muy mal estado."
+}

@@ -1,0 +1,4 @@
+{
+  "tipo": "daño de calle",
+  "descripcion": "se menciona que las calles de la cancha estan en muy mal estado."
+}
